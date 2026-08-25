@@ -18,7 +18,7 @@ I believe in **honest progress over inflated claims** - proof of work over promi
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=callmedipangshudatta&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=callmedipangshudatta&theme=dark&hide_border=true&fire=39FF14&ring=39FF14&currStreakNum=39FF14)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DipangshuDatta09?theme=dark&font=baloo2)
 
