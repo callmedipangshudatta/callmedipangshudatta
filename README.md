@@ -5,7 +5,6 @@ I believe in **honest progress over inflated claims** — proof of work over pro
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -14,7 +13,7 @@ I believe in **honest progress over inflated claims** — proof of work over pro
 
 ### 🧠 Philosophy
 
-I don't wait for permission or a title to start building. Every commit is proof, not a claim. No "expert" badges for things I've touched once — if it's listed here, I can back it.
+We don't wait for permission or a title to start building. Every commit is proof, not a claim. No "expert" badges for things I've touched once — if it's listed here, I can back it.
 
 > कर्मण्येवाधिकारस्ते मा फलेषु कदाचन
 > *You have a right to perform your duty, but never to the fruits of it.* — Bhagavad Gita 2.47
