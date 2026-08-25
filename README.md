@@ -28,11 +28,14 @@ I don't wait for permission or a title to start building. Every commit is proof,
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DipangshuDatta09?theme=dark&font=baloo2&ext=heatmap)
+![GitHub Streak](https://streak-stats.demolab.com?user=callmedipangshudatta&theme=dark&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DipangshuDatta09?theme=dark&font=baloo2)
+
+[GitHub activity](https://github.com/callmedipangshudatta) · [LeetCode profile](https://leetcode.com/u/DipangshuDatta09/)
 
 </div>
 
-**9-day active streak** · Committing daily since June — [GitHub activity](https://github.com/callmedipangshudatta)
 ---
 
 📧 [Email](mailto:infoforddatta@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/dipangshu-datta/) · 🐦 [Twitter/X](https://x.com/justdipangshu) · 🌐 [Portfolio](https://dipangshu-datta-portfolio2.vercel.app/)
