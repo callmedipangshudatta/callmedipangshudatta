@@ -27,10 +27,13 @@ I don't wait for permission or a title to start building. Every commit is proof,
 
 ### 📊 Proof of Work
 
+### 📊 Proof of Work
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=callmedipangshudatta&theme=dark&hide_border=true)
 
-**100+** DSA problems solved in C++ · [LeetCode](https://leetcode.com/u/DipangshuDatta09/)
-**9-day streak, going.** Consistency, not perfection — [GitHub activity](https://github.com/callmedipangshudatta)
+![LeetCode Stats](https://leetcode-stats-two.vercel.app/api?username=DipangshuDatta09&theme=dark)
+
+**9-day active streak** · Committing daily since June — [GitHub activity](https://github.com/callmedipangshudatta)
 
 ---
 
