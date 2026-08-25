@@ -24,7 +24,7 @@ I don't wait for permission or a title to start building. Every commit is proof,
 ### 🚀 What I'm building
 
 - **[ZenFlow](https://github.com/callmedipangshudatta/expense-tracker-api)** — AI-driven expense tracker backend. Spring Boot + PostgreSQL, built to auto-categorize UPI spending and kill manual logging. *In progress.*
-- **Console Expense Tracker** — Pure Java/OOP expense manager. No frameworks, no crutches — CRUD, aggregation, and search built on the Collections Framework alone. *Complete.*
+
 
 ---
 
