@@ -5,10 +5,7 @@ I believe in **honest progress over inflated claims** — proof of work over pro
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -33,7 +30,7 @@ I don't wait for permission or a title to start building. Every commit is proof,
 ![GitHub Streak](https://streak-stats.demolab.com?user=callmedipangshudatta&theme=dark&hide_border=true)
 
 **100+** DSA problems solved in C++ · [LeetCode](https://leetcode.com/u/DipangshuDatta09/)
-**Daily** commits, publicly · [GitHub activity](https://github.com/callmedipangshudatta)
+**9-day streak, going.** Consistency, not perfection — [GitHub activity](https://github.com/callmedipangshudatta)
 
 ---
 
