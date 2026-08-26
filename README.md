@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipangshu Datta
 
-Backend developer from India, building with **Java, Spring Boot, and system design** in mind.
+Backend developer from India, building with **Java, Spring Boot, and system design**.
 I believe in **honest progress over inflated claims** - proof of work over promises.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
