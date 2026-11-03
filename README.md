@@ -71,7 +71,7 @@ Focused on **honest progress over inflated claims** - writing clean, production-
 
 ### 🤝 Let's Build Something
 
-Open to backend engineering, Java/Spring Boot development, and system architecture roles.
+Open to backend engineering, Java/Spring Boot development, and software engineering roles.
 
 <br>
 
