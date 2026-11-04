@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dipangshu Datta
 
-**Backend Software Engineer** in making, specializing in **Java, Spring Boot, and robust system architecture**.  
+**Software Engineer** in making, specializing in **Java, Spring Boot, and robust system architecture**.  
 Focused on **honest progress over inflated claims** - writing clean, production-ready code with a strong emphasis on proof of work.
 
 ---
